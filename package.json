@@ -1,0 +1,10 @@
+{
+  "name": "bug-yarn-3-eslint-import-resolver-typescript",
+  "version": "1.0.0",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "eslint-import-resolver-typescript": "3.2.2",
+    "get-tsconfig": "^4.1.0"
+  }
+}
